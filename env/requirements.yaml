@@ -22,3 +22,6 @@ dependencies:
 - name: meter-data-hub-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.2
+- name: payment-management-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.2
