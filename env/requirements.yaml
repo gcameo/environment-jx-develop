@@ -2,6 +2,9 @@ dependencies:
 - name: address-hub-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.11
+- name: crm-backend-nodejs
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.27
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
