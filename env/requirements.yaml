@@ -1,4 +1,7 @@
 dependencies:
+- name: address-hub-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.11
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
