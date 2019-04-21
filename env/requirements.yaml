@@ -19,3 +19,6 @@ dependencies:
 - name: field-definitions-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.70
+- name: meter-data-hub-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.2
