@@ -10,7 +10,7 @@ dependencies:
   version: 1.0.15
 - name: crm-common
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.0
+  version: 1.0.1
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
