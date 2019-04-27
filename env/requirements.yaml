@@ -14,11 +14,14 @@ dependencies:
 - name: crm-common
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.1
-- alias: cleanup
+- name: event-management-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
+- alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- alias: expose
+- alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
