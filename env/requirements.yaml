@@ -33,7 +33,7 @@ dependencies:
   version: 1.0.2
 - name: organisation-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.22
+  version: 1.0.23
 - name: payment-management-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.4
