@@ -36,7 +36,7 @@ dependencies:
   version: 1.0.24
 - name: payment-management-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.8
+  version: 1.0.9
 - name: processing-path-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.26
