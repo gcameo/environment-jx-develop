@@ -45,7 +45,7 @@ dependencies:
   version: 1.0.82
 - name: registry-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.2
+  version: 1.0.3
 - name: session-management-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.3
