@@ -7,7 +7,7 @@ dependencies:
   version: 1.0.18
 - name: crm-backend-nodejs
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.43
+  version: 0.0.44
 - name: crm-backend-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.21
