@@ -10,7 +10,7 @@ dependencies:
   version: 0.0.42
 - name: crm-backend-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.20
+  version: 1.0.21
 - name: crm-common
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.1
