@@ -51,7 +51,7 @@ dependencies:
   version: 1.0.3
 - name: template-definition-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.28
+  version: 1.0.29
 - name: user-management-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.67
