@@ -30,7 +30,7 @@ dependencies:
   version: 1.0.88
 - name: meter-data-hub-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.6
+  version: 1.0.7
 - name: organisation-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.29
