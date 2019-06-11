@@ -42,7 +42,7 @@ dependencies:
   version: 1.0.15
 - name: processing-path-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.59
+  version: 1.0.60
 - name: product-management-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.84
