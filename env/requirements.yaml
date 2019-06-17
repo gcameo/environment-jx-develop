@@ -19,7 +19,7 @@ dependencies:
   version: 1.0.1
 - name: event-management-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.35
+  version: 1.0.37
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
