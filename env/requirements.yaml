@@ -45,7 +45,7 @@ dependencies:
   version: 1.0.91
 - name: product-management-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.92
+  version: 1.0.93
 - name: registry-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.6
