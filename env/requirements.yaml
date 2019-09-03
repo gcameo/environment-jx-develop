@@ -39,7 +39,7 @@ dependencies:
   version: 1.0.116
 - name: key-management-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.13
+  version: 1.0.14
 - name: meter-data-hub-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.19
