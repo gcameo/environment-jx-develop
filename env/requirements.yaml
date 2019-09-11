@@ -66,4 +66,4 @@ dependencies:
   version: 1.0.54
 - name: user-management-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.239
+  version: 1.0.240
