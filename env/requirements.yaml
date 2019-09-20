@@ -36,7 +36,7 @@ dependencies:
   version: 2.3.89
 - name: field-definitions-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.153
+  version: 1.0.154
 - name: key-management-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.16
