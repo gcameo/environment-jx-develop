@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.7
 - name: address-hub-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.29
+  version: 1.0.33
 - name: cert-store-db
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.10
