@@ -60,7 +60,7 @@ dependencies:
   version: 1.0.6
 - name: session-management-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.15
+  version: 1.0.19
 - name: template-definition-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.55
