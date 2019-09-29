@@ -2,9 +2,6 @@ dependencies:
 - name: account-transactions-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
-- name: address-hub-service
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.29
 - name: cert-store-db
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.10
